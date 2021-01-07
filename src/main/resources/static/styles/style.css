@@ -1,0 +1,46 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    margin: 0;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+table th {
+    padding: 5px 10px;
+    color: #000000;
+    text-align: left;
+}
+
+table td {
+    padding: 5px 10px;
+    margin: 5px 10px;
+    border: 1px solid #000000;
+}
+
+.text-center {
+    text-align: center;
+}
